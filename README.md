@@ -5,3 +5,8 @@ Le rendu est éffectué dans une passe finale en combinant plusieurs textures av
 
 L'éclairage final de la scène est donc produit par une combinaison des textures obtenues lors de passes 
 de rendu précédentes. 
+
+## Résultat
+
+<img src="Resultat.PNG"/>
+
